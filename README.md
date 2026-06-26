@@ -6,8 +6,8 @@ Just a place to jot down things I'm learning.
 - Made this repo
 - Learned how to commit and push on GitHub
 
-### Day 2
+## Day 2
 - basic python code
 
-#### Day 3
+## Day 3
 - adding math to the code
