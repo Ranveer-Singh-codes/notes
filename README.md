@@ -11,3 +11,6 @@ Just a place to jot down things I'm learning.
 
 ## Day 3
 - adding math to the code
+
+## Day 4
+- creating a script that finds out grades according to score
